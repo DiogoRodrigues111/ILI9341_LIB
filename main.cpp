@@ -1,6 +1,4 @@
-#include <Arduino.h>
-#include "ILI9341.c"
-
+// Created by Diogo Rodrigues Roessler
 
 /**
  * Register data
